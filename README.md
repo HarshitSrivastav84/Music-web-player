@@ -11,9 +11,9 @@ A personal project built while learning modern web development. This app is insp
 
 # Tech stack
 
-- Frontend: HTML, CSS, JavaScript (or React / Vue, if you used it)  
-- Backend (if any): Node.js / Express / your stack  
-- Music data: Spotify Web API / or your own mock data
+- Frontend: HTML, CSS, JavaScript 
+- Backend: Node.js  
+- Music data: Own mock data
 
 # What I learned
 
