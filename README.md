@@ -1,4 +1,4 @@
-# Spotify-inspired Music Web Player
+# Music Web Player inspired from Spotify
 
 A personal project built while learning modern web development. This app is inspired by Spotify’s interface and core features, but implemented from scratch as a way to practice frontend architecture, state management, and API integration.
 
